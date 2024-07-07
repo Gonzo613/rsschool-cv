@@ -1,0 +1,97 @@
+body{
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(201, 252, 235);
+  
+}
+
+h1{
+    margin-left: 20px;
+        font-size: 70px;
+    color:blue;
+}
+
+h2{
+       font-size: 70px;
+    color:blue
+   
+}  
+
+h3{
+    font-size: 70px;
+    margin-left: 20px;
+}
+h4{
+    font-size: 70px;
+    margin-left: 20px;
+}
+
+p{
+    font-size: 70;
+    
+}
+p1{
+        font-size: 20px;
+        margin-bottom: 20px;
+        padding: px;
+        margin-left: 20px;
+
+}
+p2{
+    font-size: 20px;
+    color: white;
+}
+a{
+    font-style:inherit;
+    color:rgb(197, 119, 18)
+}
+img{
+    border-radius: 100px;
+    padding: 20px;
+    margin:20px;
+}
+    ul {
+        list-style-type: none;
+        margin: 100;
+        padding: 100;}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(2, 45, 61);
+    padding: 0px;
+    margin:0px;
+    overflow: hidden;
+
+}
+.navbar a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 15px;
+    display:block;
+    text-align: center;
+    
+}
+.navbar li{
+    float: left;
+    }
+
+.cv-footer {
+     height: 70px;
+    background-color: rgb(2, 45, 61);;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ .footer-image {
+            height: 100%;
+        }
+
+li{
+    font-size: 20px;
+}
+
+code{
+    font-size: 30px;
+    padding: 20px;
+    background-color: aquamarine;
+}
