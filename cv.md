@@ -8,3 +8,8 @@ discord: gonzo070281
 
 ---
 
+### Skills
+-HTML5
+-JS
+-Figma
+-Git
