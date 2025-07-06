@@ -9,10 +9,10 @@ discord: gonzo070281
 ---
 
 ### Skills
--HTML5
--JS
--Figma
--Git
+- HTML5
+- JS
+- Figma
+- Git
 
 ---
 
@@ -36,4 +36,4 @@ document.getElementById("img-holder").appendChild(myImg);
 ---
 
 ### Languages
--English b1
+- English b1
