@@ -33,3 +33,7 @@ myImg.src = "beer-chug.gif";
 document.getElementById("img-holder").appendChild(myImg);  
 ```
 
+---
+
+### Languages
+-English b1
