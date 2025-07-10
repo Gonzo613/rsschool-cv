@@ -25,6 +25,7 @@
                 <h1>Dmitry Malitskiy</h1> 
                 <p class="p">Junior frontend developer</p>
             </div>
+          
         </div>
         <div id="About me" class="container"></div>
             <h1 class="text">
@@ -34,16 +35,28 @@
                 </p>
             </h1>
         </div>
+          <hr>
         <div id="Contacts" class="container">
         <h1 class="text">
             About me
         </h1>
         <div id="Code example" class="container">
             <h1>Code example</h1>
-             <code class="p">
-                                console.log('Hello world!');
+             <pre class="p">
+                const result=confirm ("Ты уверен что хочешь пиво ?");
+
+                if (result) {
+                    alert("Ты выбрал пить пиво !");
+                } else {
+                    alert ("Ты все равно выпьешь пиво");
+                }
+
+                var myImg = document.createElement("img");  
+                myImg.src = "beer-chug.gif";  
+                document.getElementById("img-holder").appendChild(myImg);  
+
                               
-                            </code>
+            </pre>
         </div>
         <div id="Skills" class="container">
             <h1 class="text">
@@ -61,6 +74,7 @@
             </p>
         </div>
         </div>
+         <hr>
             <footer class="cv-footer">
                  <a  href="https://github.com/Gonzo613" target="_blank">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="git hub" width="40" height="40">
@@ -68,7 +82,7 @@
                 </a>
                      <p2 >ⓒ2025</p2>
             <a  href="https://rs.school/courses/javascript-preschool-ru" target="_blank">
-                <img width="30" height="30" src="raw.githubusercontent.com/rolling-scopes-school/tasks/61cea2636c5a5f660b1070fa262bbd4acc92ec66/tasks/cv/rs-school-logo.svg" alt="RS-school-logo">
+                <img width="30" height="30" src="i.webp" alt="RS-school-logo">
             </a>
             </footer>
    </div>
